@@ -1,0 +1,61 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "time": "12:00",
+        "name": "Sample Fish King",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "12:00",
+        "name": "Sample Fish King",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Fish King",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Fish King",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "12:00",
+        "name": "Sample Fish King",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "12:00",
+        "name": "Sample Fish King",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "12:00",
+        "name": "Sample Fish King",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ]
+  }
+}

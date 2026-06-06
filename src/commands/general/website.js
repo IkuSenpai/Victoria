@@ -1,4 +1,7 @@
-﻿const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
+﻿const path = require('node:path');
+const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
+
+const serverInfo = require(path.join(__dirname, '..', '..', 'data', 'server_info.json'));
 
 module.exports = {
   data: new SlashCommandBuilder()
@@ -8,7 +11,7 @@ module.exports = {
   async execute(interaction) {
     const embed = new EmbedBuilder()
       .setTitle('Website')
-      .setDescription('Website link coming soon.')
+      .setDescription(serverInfo.websiteUrl)
       .setTimestamp();
 
     await interaction.reply({ embeds: [embed] });

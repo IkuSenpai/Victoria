@@ -1,4 +1,4 @@
-# Dependencies
+﻿# Dependencies
 node_modules/
 
 # Environment / secrets
@@ -11,12 +11,10 @@ logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
 pnpm-debug.log*
 
 # Runtime files
 *.pid
-*.seed
 *.pid.lock
 
 # Build output
@@ -26,13 +24,8 @@ out/
 
 # Cache
 .cache/
-.parcel-cache/
-.next/
-.nuxt/
-vite.config.*.timestamp-*
-vite.config.*.mjs.*
 
-# Test / coverage
+# Coverage / tests
 coverage/
 .nyc_output/
 
@@ -52,8 +45,8 @@ desktop.ini
 *.sql
 *.dump
 
-# Local bot data overrides
-data/*.local.json
+# Local overrides
+src/data/*.local.json
 config/*.local.json
 
 # Temporary files

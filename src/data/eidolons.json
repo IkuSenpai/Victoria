@@ -1,0 +1,18 @@
+﻿{
+  "eidolons": [
+    {
+      "name": "Sample Eidolon",
+      "element": "Fire",
+      "type": "Offense",
+      "source": "Sample Source",
+      "description": "Sample Eidolon information."
+    },
+    {
+      "name": "Another Sample Eidolon",
+      "element": "Ice",
+      "type": "Support",
+      "source": "Another Sample Source",
+      "description": "Another sample Eidolon description."
+    }
+  ]
+}

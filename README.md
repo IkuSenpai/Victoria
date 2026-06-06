@@ -63,3 +63,11 @@ Static data is stored in src/data.
 ## Deployment Notes
 
 Victoria is intended to run on Debian 13 or newer with Node.js 20 or newer.
+
+## Validate Data Files
+
+Run this before committing changes to JSON data files:
+
+npm run validate-data
+
+This checks every JSON file in src/data and fails if one has broken JSON formatting.

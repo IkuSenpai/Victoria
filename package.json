@@ -8,7 +8,9 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "deploy": "node src/deploy-commands.js",
-    "validate-data": "node scripts/validate-data.js"
+    "validate-data": "node scripts/validate-data.js",
+    "prestart": "npm run validate-data",
+    "predeploy": "npm run validate-data"
   },
   "repository": {
     "type": "git",

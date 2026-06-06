@@ -1,0 +1,47 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "time": "12:00",
+        "name": "Sample Guild Boss"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "12:00",
+        "name": "Sample Guild Boss"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Guild Boss"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Guild Boss"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "12:00",
+        "name": "Sample Guild Boss"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "12:00",
+        "name": "Sample Guild Boss"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "12:00",
+        "name": "Sample Guild Boss"
+      }
+    ]
+  }
+}

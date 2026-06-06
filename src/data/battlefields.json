@@ -1,0 +1,47 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "time": "12:00",
+        "name": "Sample Battlefield"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "12:00",
+        "name": "Sample Battlefield"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Battlefield"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Battlefield"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "12:00",
+        "name": "Sample Battlefield"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "12:00",
+        "name": "Sample Battlefield"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "12:00",
+        "name": "Sample Battlefield"
+      }
+    ]
+  }
+}

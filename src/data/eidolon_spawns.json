@@ -1,0 +1,19 @@
+﻿{
+  "instances": [
+    {
+      "instance": "Sample Dungeon",
+      "mode": "Party",
+      "eidolons": [
+        "Sample Eidolon",
+        "Another Sample Eidolon"
+      ]
+    },
+    {
+      "instance": "Sample Trial",
+      "mode": "Hell",
+      "eidolons": [
+        "Sample Eidolon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿{
+  "timezone": "Server local time",
+  "active": [
+    {
+      "name": "Sample Paragon",
+      "starts": "12:00",
+      "ends": "18:00",
+      "notes": "Sample Paragon information."
+    }
+  ]
+}

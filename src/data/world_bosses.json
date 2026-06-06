@@ -1,0 +1,54 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "time": "12:00",
+        "name": "Sample World Boss",
+        "location": "Sample Location"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "12:00",
+        "name": "Sample World Boss",
+        "location": "Sample Location"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "12:00",
+        "name": "Sample World Boss",
+        "location": "Sample Location"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "12:00",
+        "name": "Sample World Boss",
+        "location": "Sample Location"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "12:00",
+        "name": "Sample World Boss",
+        "location": "Sample Location"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "12:00",
+        "name": "Sample World Boss",
+        "location": "Sample Location"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "12:00",
+        "name": "Sample World Boss",
+        "location": "Sample Location"
+      }
+    ]
+  }
+}

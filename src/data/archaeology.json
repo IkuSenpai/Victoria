@@ -1,0 +1,54 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "name": "Sample Archaeology Site",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Monday": [
+      {
+        "name": "Sample Archaeology Site",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Tuesday": [
+      {
+        "name": "Sample Archaeology Site",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Wednesday": [
+      {
+        "name": "Sample Archaeology Site",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Thursday": [
+      {
+        "name": "Sample Archaeology Site",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Friday": [
+      {
+        "name": "Sample Archaeology Site",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ],
+    "Saturday": [
+      {
+        "name": "Sample Archaeology Site",
+        "location": "Sample Location",
+        "eidolonWish": "Sample Eidolon Wish"
+      }
+    ]
+  }
+}

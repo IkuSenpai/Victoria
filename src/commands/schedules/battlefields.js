@@ -1,23 +1,8 @@
 ﻿const path = require('node:path');
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
+const { dayChoices, getTodayName } = require(path.join(__dirname, '..', '..', 'services', 'dateService'));
 
 const battlefields = require(path.join(__dirname, '..', '..', 'data', 'battlefields.json'));
-
-const dayChoices = [
-  { name: 'Sunday', value: 'Sunday' },
-  { name: 'Monday', value: 'Monday' },
-  { name: 'Tuesday', value: 'Tuesday' },
-  { name: 'Wednesday', value: 'Wednesday' },
-  { name: 'Thursday', value: 'Thursday' },
-  { name: 'Friday', value: 'Friday' },
-  { name: 'Saturday', value: 'Saturday' },
-];
-
-function getTodayName() {
-  return new Intl.DateTimeFormat('en-US', {
-    weekday: 'long',
-  }).format(new Date());
-}
 
 function formatBattlefield(entry) {
   return `**Time:** ${entry.time}`;

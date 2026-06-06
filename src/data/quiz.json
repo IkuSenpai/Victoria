@@ -1,0 +1,47 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "time": "12:00",
+        "name": "Sample Quiz"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "12:00",
+        "name": "Sample Quiz"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Quiz"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Quiz"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "12:00",
+        "name": "Sample Quiz"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "12:00",
+        "name": "Sample Quiz"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "12:00",
+        "name": "Sample Quiz"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+﻿{
+  "prayers": [
+    {
+      "eidolon": "Sample Eidolon",
+      "stats": [
+        {
+          "name": "HP",
+          "value": "+100"
+        },
+        {
+          "name": "DMG",
+          "value": "+50"
+        }
+      ],
+      "requirements": [
+        "Sample Prayer Requirement 1",
+        "Sample Prayer Requirement 2"
+      ]
+    },
+    {
+      "eidolon": "Another Sample Eidolon",
+      "stats": [
+        {
+          "name": "DEF",
+          "value": "+50"
+        },
+        {
+          "name": "CRIT",
+          "value": "+25"
+        }
+      ],
+      "requirements": [
+        "Another Sample Prayer Requirement"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "time": "12:00",
+        "type": "ST",
+        "name": "Sample Sky Tower"
+      },
+      {
+        "time": "18:00",
+        "type": "SR",
+        "name": "Sample Special Raid"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "12:00",
+        "type": "ST",
+        "name": "Sample Sky Tower"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "12:00",
+        "type": "EST",
+        "name": "Sample Elite Sky Tower"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "12:00",
+        "type": "HST",
+        "name": "Sample Hell Sky Tower"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "12:00",
+        "type": "ST",
+        "name": "Sample Sky Tower"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "12:00",
+        "type": "EST",
+        "name": "Sample Elite Sky Tower"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "12:00",
+        "type": "HST",
+        "name": "Sample Hell Sky Tower"
+      },
+      {
+        "time": "18:00",
+        "type": "SR",
+        "name": "Sample Special Raid"
+      }
+    ]
+  }
+}

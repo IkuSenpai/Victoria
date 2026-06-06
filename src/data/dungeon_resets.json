@@ -1,0 +1,54 @@
+﻿{
+  "timezone": "Server local time",
+  "days": {
+    "Sunday": [
+      {
+        "time": "12:00",
+        "name": "Sample Dungeon Reset",
+        "version": "Normal"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "12:00",
+        "name": "Sample Dungeon Reset",
+        "version": "Normal"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Dungeon Reset",
+        "version": "Hell"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "12:00",
+        "name": "Sample Dungeon Reset",
+        "version": "Party"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "12:00",
+        "name": "Sample Dungeon Reset",
+        "version": "Normal"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "12:00",
+        "name": "Sample Dungeon Reset",
+        "version": "Hell"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "12:00",
+        "name": "Sample Dungeon Reset",
+        "version": "Party"
+      }
+    ]
+  }
+}

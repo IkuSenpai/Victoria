@@ -71,3 +71,9 @@ Run this before committing changes to JSON data files:
 npm run validate-data
 
 This checks every JSON file in src/data and fails if one has broken JSON formatting.
+
+## Documentation
+
+- docs/data-format.md - Explains the static JSON data structure.
+- docs/debian-deploy.md - Notes for deploying Victoria on Debian.
+- deploy/victoria.service.example - Example systemd service file.

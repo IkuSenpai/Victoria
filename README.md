@@ -77,3 +77,31 @@ This checks every JSON file in src/data and fails if one has broken JSON formatt
 - docs/data-format.md - Explains the static JSON data structure.
 - docs/debian-deploy.md - Notes for deploying Victoria on Debian.
 - deploy/victoria.service.example - Example systemd service file.
+
+## Fish Kings
+
+The `/fishkings` command has been upgraded from placeholder data to real Fish King schedule data.
+
+Current Fish Kings support:
+
+- Real schedule data from `src/data/fish_kings.json`
+- Optional `day` argument
+- Grouped spawn times per Fish King
+- Next spawn countdown using Discord timestamps
+- 30-minute active duration display
+- Local thumbnail assets from `assets/fish_kings/thumbnails`
+- Local image assets stored in `assets/fish_kings/images` for future detailed views
+- Blank-safe fields for bait, Eidolon Wishes, notes, images, and thumbnails
+
+Examples:
+
+/fishkings
+/fishkings day:Monday
+
+Large Fish King images are intentionally not shown in the daily schedule list because they make the command too large. Daily schedule embeds use thumbnails only.
+
+## Planned Commands
+
+- `/fishking name:<fish>` - Shows a specific Fish King with full details, large image, bait, Eidolon Wish, location, notes, and spawn times.
+- `/online` - Shows online players from the game database.
+- `/guilds` - Shows in-game guilds from the game database.

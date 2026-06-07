@@ -1,60 +1,1279 @@
 {
-  "timezone": "Server local time",
+  "timezone": "PST",
+  "timeZone": "America/Los_Angeles",
   "days": {
     "Sunday": [
       {
-        "time": "12:00",
-        "name": "Sample Fish King",
-        "location": "Sample Location",
-        "eidolonWish": "Sample Eidolon Wish"
+        "time": "13:00",
+        "name": "All Fish Kings",
+        "bait": "Various Baits",
+        "location": "",
+        "eidolonWish": "",
+        "imageUrl": "",
+        "thumbnailUrl": "",
+        "notes": ""
+      },
+      {
+        "time": "15:00",
+        "name": "All Fish Kings",
+        "bait": "Various Baits",
+        "location": "",
+        "eidolonWish": "",
+        "imageUrl": "",
+        "thumbnailUrl": "",
+        "notes": ""
+      },
+      {
+        "time": "17:00",
+        "name": "All Fish Kings",
+        "bait": "Various Baits",
+        "location": "",
+        "eidolonWish": "",
+        "imageUrl": "",
+        "thumbnailUrl": "",
+        "notes": ""
       }
     ],
     "Monday": [
       {
-        "time": "12:00",
-        "name": "Sample Fish King",
-        "location": "Sample Location",
-        "eidolonWish": "Sample Eidolon Wish"
+        "time": "00:00",
+        "name": "Fragrant Monstrosity",
+        "bait": "",
+        "location": "Rainmist Reach (X: 83, Y: 423)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01088.png",
+        "notes": "https://www.aurakingdom-db.com/item/14465-hypnosis-frog"
+      },
+      {
+        "time": "00:00",
+        "name": "Lake Lurker",
+        "bait": "",
+        "location": "Emerald Marsh (X: 195, Y: 206)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01091.png",
+        "notes": "https://www.aurakingdom-db.com/item/14468-bloodthirsty-thornfang"
+      },
+      {
+        "time": "00:00",
+        "name": "Moonlight Mountain God",
+        "bait": "",
+        "location": "Glowing Floodplain (X: 182, Y: 617)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N60503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02615.png",
+        "notes": "https://www.aurakingdom-db.com/item/21912-golden-perch"
+      },
+      {
+        "time": "00:00",
+        "name": "Spring Rush of the Snowfield",
+        "bait": "",
+        "location": "Snow Crystal Plains (X: 887, Y: 619)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N54103.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02718.png",
+        "notes": "https://www.aurakingdom-db.com/item/22518-netherworld-hunter"
+      },
+      {
+        "time": "01:00",
+        "name": "Eternal Wisdom Elder",
+        "bait": "",
+        "location": "Vulture's Vale (X: 609, Y: 666)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49504.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01043.png",
+        "notes": "https://www.aurakingdom-db.com/item/13686-eternal-wise-crab"
+      },
+      {
+        "time": "01:00",
+        "name": "Khaz Walid",
+        "bait": "",
+        "location": "Desolate Valley (X: 785, Y: 403)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N46003.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01417.png",
+        "notes": "https://www.aurakingdom-db.com/item/15511-midnight-silverside"
+      },
+      {
+        "time": "01:00",
+        "name": "Sun Worshiping Gluttonous Beast",
+        "bait": "",
+        "location": "Snowflame Realm (X: 635, Y: 621)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N62803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02885.png",
+        "notes": "https://www.aurakingdom-db.com/item/35100-ancient-alligator-gar"
+      },
+      {
+        "time": "08:00",
+        "name": "Fragrant Monstrosity",
+        "bait": "",
+        "location": "Rainmist Reach (X: 83, Y: 423)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01088.png",
+        "notes": "https://www.aurakingdom-db.com/item/14465-hypnosis-frog"
+      },
+      {
+        "time": "08:00",
+        "name": "Lake Lurker",
+        "bait": "",
+        "location": "Emerald Marsh (X: 195, Y: 206)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01091.png",
+        "notes": "https://www.aurakingdom-db.com/item/14468-bloodthirsty-thornfang"
+      },
+      {
+        "time": "08:00",
+        "name": "Moonlight Mountain God",
+        "bait": "",
+        "location": "Glowing Floodplain (X: 182, Y: 617)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N60503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02615.png",
+        "notes": "https://www.aurakingdom-db.com/item/21912-golden-perch"
+      },
+      {
+        "time": "08:00",
+        "name": "Spring Rush of the Snowfield",
+        "bait": "",
+        "location": "Snow Crystal Plains (X: 887, Y: 619)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N54103.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02718.png",
+        "notes": "https://www.aurakingdom-db.com/item/22518-netherworld-hunter"
+      },
+      {
+        "time": "09:00",
+        "name": "Eternal Wisdom Elder",
+        "bait": "",
+        "location": "Vulture's Vale (X: 609, Y: 666)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49504.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01043.png",
+        "notes": "https://www.aurakingdom-db.com/item/13686-eternal-wise-crab"
+      },
+      {
+        "time": "09:00",
+        "name": "Khaz Walid",
+        "bait": "",
+        "location": "Desolate Valley (X: 785, Y: 403)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N46003.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01417.png",
+        "notes": "https://www.aurakingdom-db.com/item/15511-midnight-silverside"
+      },
+      {
+        "time": "09:00",
+        "name": "Sun Worshiping Gluttonous Beast",
+        "bait": "",
+        "location": "Snowflame Realm (X: 635, Y: 621)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N62803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02885.png",
+        "notes": "https://www.aurakingdom-db.com/item/35100-ancient-alligator-gar"
+      },
+      {
+        "time": "16:00",
+        "name": "Fragrant Monstrosity",
+        "bait": "",
+        "location": "Rainmist Reach (X: 83, Y: 423)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01088.png",
+        "notes": "https://www.aurakingdom-db.com/item/14465-hypnosis-frog"
+      },
+      {
+        "time": "16:00",
+        "name": "Lake Lurker",
+        "bait": "",
+        "location": "Emerald Marsh (X: 195, Y: 206)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01091.png",
+        "notes": "https://www.aurakingdom-db.com/item/14468-bloodthirsty-thornfang"
+      },
+      {
+        "time": "16:00",
+        "name": "Moonlight Mountain God",
+        "bait": "",
+        "location": "Glowing Floodplain (X: 182, Y: 617)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N60503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02615.png",
+        "notes": "https://www.aurakingdom-db.com/item/21912-golden-perch"
+      },
+      {
+        "time": "16:00",
+        "name": "Spring Rush of the Snowfield",
+        "bait": "",
+        "location": "Snow Crystal Plains (X: 887, Y: 619)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N54103.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02718.png",
+        "notes": "https://www.aurakingdom-db.com/item/22518-netherworld-hunter"
+      },
+      {
+        "time": "17:00",
+        "name": "Eternal Wisdom Elder",
+        "bait": "",
+        "location": "Vulture's Vale (X: 609, Y: 666)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49504.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01043.png",
+        "notes": "https://www.aurakingdom-db.com/item/13686-eternal-wise-crab"
+      },
+      {
+        "time": "17:00",
+        "name": "Khaz Walid",
+        "bait": "",
+        "location": "Desolate Valley (X: 785, Y: 403)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N46003.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01417.png",
+        "notes": "https://www.aurakingdom-db.com/item/15511-midnight-silverside"
+      },
+      {
+        "time": "17:00",
+        "name": "Sun Worshiping Gluttonous Beast",
+        "bait": "",
+        "location": "Snowflame Realm (X: 635, Y: 621)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N62803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02885.png",
+        "notes": "https://www.aurakingdom-db.com/item/35100-ancient-alligator-gar"
       }
     ],
     "Tuesday": [
       {
-        "time": "12:00",
-        "name": "Sample Fish King",
-        "location": "Sample Location",
-        "eidolonWish": "Sample Eidolon Wish"
+        "time": "00:00",
+        "name": "Hot-Tempered Overlord",
+        "bait": "",
+        "location": "Triatio Highlands (X: 158, Y: 531)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00752.png",
+        "notes": "https://www.aurakingdom-db.com/item/13082-king-sand-crab"
+      },
+      {
+        "time": "00:00",
+        "name": "Winter Glimmer",
+        "bait": "",
+        "location": "Frigga Peak (X: 572, Y: 799)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00752.png",
+        "notes": "https://www.aurakingdom-db.com/item/19150-sunny-golden-crab"
+      },
+      {
+        "time": "00:00",
+        "name": "Moonsnow Ice Whale",
+        "bait": "",
+        "location": "Silent Hill (X: 578, Y: 372)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N60403.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02618.png",
+        "notes": "https://www.aurakingdom-db.com/item/21915-snow-ridge-dragonfish"
+      },
+      {
+        "time": "01:00",
+        "name": "Ocean Tyrant",
+        "bait": "",
+        "location": "Port Skandia (X: 825, Y: 343)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M50003.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00767.png",
+        "notes": "https://www.aurakingdom-db.com/item/13077-copper-shark-king"
+      },
+      {
+        "time": "01:00",
+        "name": "Submerged Starlight",
+        "bait": "",
+        "location": "Candetonn Hill (X: 630, Y: 645)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01411.png",
+        "notes": "https://www.aurakingdom-db.com/item/15505-starlight-pufferfish"
+      },
+      {
+        "time": "01:00",
+        "name": "Sliver Shadow",
+        "bait": "",
+        "location": "Drowsy Cave (X: 266, Y: 422)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N56302.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02284.png",
+        "notes": "https://www.aurakingdom-db.com/item/19700-gold-leaf-phantom"
+      },
+      {
+        "time": "08:00",
+        "name": "Hot-Tempered Overlord",
+        "bait": "",
+        "location": "Triatio Highlands (X: 158, Y: 531)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00752.png",
+        "notes": "https://www.aurakingdom-db.com/item/13082-king-sand-crab"
+      },
+      {
+        "time": "08:00",
+        "name": "Winter Glimmer",
+        "bait": "",
+        "location": "Frigga Peak (X: 572, Y: 799)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00752.png",
+        "notes": "https://www.aurakingdom-db.com/item/19150-sunny-golden-crab"
+      },
+      {
+        "time": "08:00",
+        "name": "Moonsnow Ice Whale",
+        "bait": "",
+        "location": "Silent Hill (X: 578, Y: 372)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N60403.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02618.png",
+        "notes": "https://www.aurakingdom-db.com/item/21915-snow-ridge-dragonfish"
+      },
+      {
+        "time": "09:00",
+        "name": "Ocean Tyrant",
+        "bait": "",
+        "location": "Port Skandia (X: 825, Y: 343)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M50003.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00767.png",
+        "notes": "https://www.aurakingdom-db.com/item/13077-copper-shark-king"
+      },
+      {
+        "time": "09:00",
+        "name": "Submerged Starlight",
+        "bait": "",
+        "location": "Candetonn Hill (X: 630, Y: 645)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01411.png",
+        "notes": "https://www.aurakingdom-db.com/item/15505-starlight-pufferfish"
+      },
+      {
+        "time": "09:00",
+        "name": "Sliver Shadow",
+        "bait": "",
+        "location": "Drowsy Cave (X: 266, Y: 422)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N56302.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02284.png",
+        "notes": "https://www.aurakingdom-db.com/item/19700-gold-leaf-phantom"
+      },
+      {
+        "time": "16:00",
+        "name": "Hot-Tempered Overlord",
+        "bait": "",
+        "location": "Triatio Highlands (X: 158, Y: 531)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00752.png",
+        "notes": "https://www.aurakingdom-db.com/item/13082-king-sand-crab"
+      },
+      {
+        "time": "16:00",
+        "name": "Winter Glimmer",
+        "bait": "",
+        "location": "Frigga Peak (X: 572, Y: 799)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49503.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00752.png",
+        "notes": "https://www.aurakingdom-db.com/item/19150-sunny-golden-crab"
+      },
+      {
+        "time": "16:00",
+        "name": "Moonsnow Ice Whale",
+        "bait": "",
+        "location": "Silent Hill (X: 578, Y: 372)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N60403.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02618.png",
+        "notes": "https://www.aurakingdom-db.com/item/21915-snow-ridge-dragonfish"
+      },
+      {
+        "time": "17:00",
+        "name": "Ocean Tyrant",
+        "bait": "",
+        "location": "Port Skandia (X: 825, Y: 343)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M50003.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00767.png",
+        "notes": "https://www.aurakingdom-db.com/item/13077-copper-shark-king"
+      },
+      {
+        "time": "17:00",
+        "name": "Submerged Starlight",
+        "bait": "",
+        "location": "Candetonn Hill (X: 630, Y: 645)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01411.png",
+        "notes": "https://www.aurakingdom-db.com/item/15505-starlight-pufferfish"
+      },
+      {
+        "time": "17:00",
+        "name": "Sliver Shadow",
+        "bait": "",
+        "location": "Drowsy Cave (X: 266, Y: 422)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N56302.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02284.png",
+        "notes": "https://www.aurakingdom-db.com/item/19700-gold-leaf-phantom"
       }
     ],
     "Wednesday": [
       {
-        "time": "12:00",
-        "name": "Sample Fish King",
-        "location": "Sample Location",
-        "eidolonWish": "Sample Eidolon Wish"
+        "time": "00:00",
+        "name": "Defender of the Marsh",
+        "bait": "",
+        "location": "Candeo Marsh (X: 765, Y: 500)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00764.png",
+        "notes": "https://www.aurakingdom-db.com/item/13083-giant-marsh-trout"
+      },
+      {
+        "time": "00:00",
+        "name": "Unidentified Foreign Creature",
+        "bait": "",
+        "location": "Starstruck Plateau (X: 112, Y: 582)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01094.png",
+        "notes": "https://www.aurakingdom-db.com/item/14471-crimson-wisp-jellyfish"
+      },
+      {
+        "time": "00:00",
+        "name": "Aged to Perfection in the ancient era",
+        "bait": "",
+        "location": "Red Sakura Volcano (X: 72, Y: 454)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N61703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02811.png",
+        "notes": "https://www.aurakingdom-db.com/item/22855-calcium-stone-giant-spear-tail-fish"
+      },
+      {
+        "time": "01:00",
+        "name": "Shadow of the Deep",
+        "bait": "",
+        "location": "Helonia Coast (X: 773, Y: 136)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00764.png",
+        "notes": "https://www.aurakingdom-db.com/item/13078-deep-sea-tuna"
+      },
+      {
+        "time": "01:00",
+        "name": "Blurred Void's Shadow",
+        "bait": "",
+        "location": "Chronology Forest (X: 802, Y: 368)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N50802.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01903.png",
+        "notes": "https://www.aurakingdom-db.com/item/18262-magical-gleam-shadow-butterfly-fish"
+      },
+      {
+        "time": "01:00",
+        "name": "Abyss Liar",
+        "bait": "",
+        "location": "Secret Forest Lake (X: 138, Y: 129)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01091.png",
+        "notes": "https://www.aurakingdom-db.com/item/19330-golden-temptation"
+      },
+      {
+        "time": "08:00",
+        "name": "Defender of the Marsh",
+        "bait": "",
+        "location": "Candeo Marsh (X: 765, Y: 500)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00764.png",
+        "notes": "https://www.aurakingdom-db.com/item/13083-giant-marsh-trout"
+      },
+      {
+        "time": "08:00",
+        "name": "Unidentified Foreign Creature",
+        "bait": "",
+        "location": "Starstruck Plateau (X: 112, Y: 582)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01094.png",
+        "notes": "https://www.aurakingdom-db.com/item/14471-crimson-wisp-jellyfish"
+      },
+      {
+        "time": "08:00",
+        "name": "Aged to Perfection in the ancient era",
+        "bait": "",
+        "location": "Red Sakura Volcano (X: 72, Y: 454)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N61703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02811.png",
+        "notes": "https://www.aurakingdom-db.com/item/22855-calcium-stone-giant-spear-tail-fish"
+      },
+      {
+        "time": "09:00",
+        "name": "Shadow of the Deep",
+        "bait": "",
+        "location": "Helonia Coast (X: 773, Y: 136)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00764.png",
+        "notes": "https://www.aurakingdom-db.com/item/13078-deep-sea-tuna"
+      },
+      {
+        "time": "09:00",
+        "name": "Blurred Void's Shadow",
+        "bait": "",
+        "location": "Chronology Forest (X: 802, Y: 368)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N50802.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01903.png",
+        "notes": "https://www.aurakingdom-db.com/item/18262-magical-gleam-shadow-butterfly-fish"
+      },
+      {
+        "time": "09:00",
+        "name": "Abyss Liar",
+        "bait": "",
+        "location": "Secret Forest Lake (X: 138, Y: 129)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01091.png",
+        "notes": "https://www.aurakingdom-db.com/item/19330-golden-temptation"
+      },
+      {
+        "time": "16:00",
+        "name": "Defender of the Marsh",
+        "bait": "",
+        "location": "Candeo Marsh (X: 765, Y: 500)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00764.png",
+        "notes": "https://www.aurakingdom-db.com/item/13083-giant-marsh-trout"
+      },
+      {
+        "time": "16:00",
+        "name": "Unidentified Foreign Creature",
+        "bait": "",
+        "location": "Starstruck Plateau (X: 112, Y: 582)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01094.png",
+        "notes": "https://www.aurakingdom-db.com/item/14471-crimson-wisp-jellyfish"
+      },
+      {
+        "time": "16:00",
+        "name": "Aged to Perfection in the ancient era",
+        "bait": "",
+        "location": "Red Sakura Volcano (X: 72, Y: 454)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N61703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02811.png",
+        "notes": "https://www.aurakingdom-db.com/item/22855-calcium-stone-giant-spear-tail-fish"
+      },
+      {
+        "time": "17:00",
+        "name": "Shadow of the Deep",
+        "bait": "",
+        "location": "Helonia Coast (X: 773, Y: 136)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00764.png",
+        "notes": "https://www.aurakingdom-db.com/item/13078-deep-sea-tuna"
+      },
+      {
+        "time": "17:00",
+        "name": "Blurred Void's Shadow",
+        "bait": "",
+        "location": "Chronology Forest (X: 802, Y: 368)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N50802.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01903.png",
+        "notes": "https://www.aurakingdom-db.com/item/18262-magical-gleam-shadow-butterfly-fish"
+      },
+      {
+        "time": "17:00",
+        "name": "Abyss Liar",
+        "bait": "",
+        "location": "Secret Forest Lake (X: 138, Y: 129)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01091.png",
+        "notes": "https://www.aurakingdom-db.com/item/19330-golden-temptation"
       }
     ],
     "Thursday": [
       {
-        "time": "12:00",
-        "name": "Sample Fish King",
-        "location": "Sample Location",
-        "eidolonWish": "Sample Eidolon Wish"
+        "time": "00:00",
+        "name": "Rainbow Caller",
+        "bait": "",
+        "location": "Ventos Prairie (X: 467, Y: 134) -- Help Merum (X: 467, Y: 134)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13084-rainbow-salmon"
+      },
+      {
+        "time": "00:00",
+        "name": "Eternal Epicurean",
+        "bait": "",
+        "location": "Tanglevine Cascades (X: 177, Y: 764)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N47903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01716.png",
+        "notes": "https://www.aurakingdom-db.com/item/17293-glimmershade"
+      },
+      {
+        "time": "00:00",
+        "name": "Ancient Golden Scales",
+        "bait": "",
+        "location": "White Spirit Hill (X: 327, Y: 124)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N59801.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02505.png",
+        "notes": "https://www.aurakingdom-db.com/item/21106-armored-ranger"
+      },
+      {
+        "time": "00:00",
+        "name": "Resplendent Predator",
+        "bait": "",
+        "location": "The Blood Pool of Calamity (X: 807, Y: 825)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N64203.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02992.png",
+        "notes": "https://www.aurakingdom-db.com/item/34866-flame-lionfish"
+      },
+      {
+        "time": "01:00",
+        "name": "Golden Blossom",
+        "bait": "",
+        "location": "Crescent Hill (X: 461, Y: 556)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13081-golden-petal-fish"
+      },
+      {
+        "time": "01:00",
+        "name": "Shadow Lancer",
+        "bait": "",
+        "location": "Port Morton (X: 756, Y: 333)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01408.png",
+        "notes": "https://www.aurakingdom-db.com/item/15502-ironclad-swordfish"
+      },
+      {
+        "time": "01:00",
+        "name": "Gorge Lord",
+        "bait": "",
+        "location": "Gloomy Ridge (X: 679, Y: 103)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01411.png",
+        "notes": "https://www.aurakingdom-db.com/item/19697-goldflow-guardian"
+      },
+      {
+        "time": "08:00",
+        "name": "Rainbow Caller",
+        "bait": "",
+        "location": "Ventos Prairie (X: 467, Y: 134) -- Help Merum (X: 467, Y: 134)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13084-rainbow-salmon"
+      },
+      {
+        "time": "08:00",
+        "name": "Eternal Epicurean",
+        "bait": "",
+        "location": "Tanglevine Cascades (X: 177, Y: 764)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N47903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01716.png",
+        "notes": "https://www.aurakingdom-db.com/item/17293-glimmershade"
+      },
+      {
+        "time": "08:00",
+        "name": "Ancient Golden Scales",
+        "bait": "",
+        "location": "White Spirit Hill (X: 327, Y: 124)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N59801.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02505.png",
+        "notes": "https://www.aurakingdom-db.com/item/21106-armored-ranger"
+      },
+      {
+        "time": "08:00",
+        "name": "Resplendent Predator",
+        "bait": "",
+        "location": "The Blood Pool of Calamity (X: 807, Y: 825)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N64203.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02992.png",
+        "notes": "https://www.aurakingdom-db.com/item/34866-flame-lionfish"
+      },
+      {
+        "time": "09:00",
+        "name": "Golden Blossom",
+        "bait": "",
+        "location": "Crescent Hill (X: 461, Y: 556)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13081-golden-petal-fish"
+      },
+      {
+        "time": "09:00",
+        "name": "Shadow Lancer",
+        "bait": "",
+        "location": "Port Morton (X: 756, Y: 333)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01408.png",
+        "notes": "https://www.aurakingdom-db.com/item/15502-ironclad-swordfish"
+      },
+      {
+        "time": "09:00",
+        "name": "Gorge Lord",
+        "bait": "",
+        "location": "Gloomy Ridge (X: 679, Y: 103)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01411.png",
+        "notes": "https://www.aurakingdom-db.com/item/19697-goldflow-guardian"
+      },
+      {
+        "time": "16:00",
+        "name": "Rainbow Caller",
+        "bait": "",
+        "location": "Ventos Prairie (X: 467, Y: 134) -- Help Merum (X: 467, Y: 134)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13084-rainbow-salmon"
+      },
+      {
+        "time": "16:00",
+        "name": "Eternal Epicurean",
+        "bait": "",
+        "location": "Tanglevine Cascades (X: 177, Y: 764)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N47903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01716.png",
+        "notes": "https://www.aurakingdom-db.com/item/17293-glimmershade"
+      },
+      {
+        "time": "16:00",
+        "name": "Ancient Golden Scales",
+        "bait": "",
+        "location": "White Spirit Hill (X: 327, Y: 124)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N59801.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02505.png",
+        "notes": "https://www.aurakingdom-db.com/item/21106-armored-ranger"
+      },
+      {
+        "time": "16:00",
+        "name": "Resplendent Predator",
+        "bait": "",
+        "location": "The Blood Pool of Calamity (X: 807, Y: 825)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N64203.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02992.png",
+        "notes": "https://www.aurakingdom-db.com/item/34866-flame-lionfish"
+      },
+      {
+        "time": "17:00",
+        "name": "Golden Blossom",
+        "bait": "",
+        "location": "Crescent Hill (X: 461, Y: 556)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13081-golden-petal-fish"
+      },
+      {
+        "time": "17:00",
+        "name": "Shadow Lancer",
+        "bait": "",
+        "location": "Port Morton (X: 756, Y: 333)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01408.png",
+        "notes": "https://www.aurakingdom-db.com/item/15502-ironclad-swordfish"
+      },
+      {
+        "time": "17:00",
+        "name": "Gorge Lord",
+        "bait": "",
+        "location": "Gloomy Ridge (X: 679, Y: 103)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01411.png",
+        "notes": "https://www.aurakingdom-db.com/item/19697-goldflow-guardian"
       }
     ],
     "Friday": [
       {
-        "time": "12:00",
-        "name": "Sample Fish King",
-        "location": "Sample Location",
-        "eidolonWish": "Sample Eidolon Wish"
+        "time": "00:00",
+        "name": "Deep Waterfall Ghost",
+        "bait": "",
+        "location": "Oblitus Wood (X: 129, Y: 651)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00758.png",
+        "notes": "https://www.aurakingdom-db.com/item/13085-waterfall-catfish"
+      },
+      {
+        "time": "00:00",
+        "name": "Eternal Glacier",
+        "bait": "",
+        "location": "Silent Ice Field (X: 328, Y: 560)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01097.png",
+        "notes": "https://www.aurakingdom-db.com/item/14474-ice-field-continent-turtle"
+      },
+      {
+        "time": "00:00",
+        "name": "Silent Torture Dance",
+        "bait": "",
+        "location": "Hidden Valley (X: 729, Y: 764)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01094.png",
+        "notes": "https://www.aurakingdom-db.com/item/19332-glorious-sunrise"
+      },
+      {
+        "time": "00:00",
+        "name": "The Explorer of the Secret Realm",
+        "bait": "",
+        "location": "Scorched Abyss (X: 156, Y: 70)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N62703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02882.png",
+        "notes": "https://www.aurakingdom-db.com/item/35097-golden-mahi-mahi"
+      },
+      {
+        "time": "01:00",
+        "name": "Ancient Witness",
+        "bait": "",
+        "location": "Cactakara Forest (X: 152, Y: 705)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00758.png",
+        "notes": "https://www.aurakingdom-db.com/item/13080-ancient-mandarin-fish"
+      },
+      {
+        "time": "01:00",
+        "name": "Silent Hunter",
+        "bait": "",
+        "location": "Sunhunter's Vale (X: 640, Y: 221)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N47803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01713.png",
+        "notes": "https://www.aurakingdom-db.com/item/17296-flare-tuna"
+      },
+      {
+        "time": "01:00",
+        "name": "Sand-Swept Thorn",
+        "bait": "",
+        "location": "Desolate Desert (X: 773, Y: 552)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01097.png",
+        "notes": "https://www.aurakingdom-db.com/item/19153-good-luck-goldie"
+      },
+      {
+        "time": "08:00",
+        "name": "Deep Waterfall Ghost",
+        "bait": "",
+        "location": "Oblitus Wood (X: 129, Y: 651)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00758.png",
+        "notes": "https://www.aurakingdom-db.com/item/13085-waterfall-catfish"
+      },
+      {
+        "time": "08:00",
+        "name": "Eternal Glacier",
+        "bait": "",
+        "location": "Silent Ice Field (X: 328, Y: 560)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01097.png",
+        "notes": "https://www.aurakingdom-db.com/item/14474-ice-field-continent-turtle"
+      },
+      {
+        "time": "08:00",
+        "name": "Silent Torture Dance",
+        "bait": "",
+        "location": "Hidden Valley (X: 729, Y: 764)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01094.png",
+        "notes": "https://www.aurakingdom-db.com/item/19332-glorious-sunrise"
+      },
+      {
+        "time": "08:00",
+        "name": "The Explorer of the Secret Realm",
+        "bait": "",
+        "location": "Scorched Abyss (X: 156, Y: 70)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N62703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02882.png",
+        "notes": "https://www.aurakingdom-db.com/item/35097-golden-mahi-mahi"
+      },
+      {
+        "time": "09:00",
+        "name": "Ancient Witness",
+        "bait": "",
+        "location": "Cactakara Forest (X: 152, Y: 705)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00758.png",
+        "notes": "https://www.aurakingdom-db.com/item/13080-ancient-mandarin-fish"
+      },
+      {
+        "time": "09:00",
+        "name": "Silent Hunter",
+        "bait": "",
+        "location": "Sunhunter's Vale (X: 640, Y: 221)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N47803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01713.png",
+        "notes": "https://www.aurakingdom-db.com/item/17296-flare-tuna"
+      },
+      {
+        "time": "09:00",
+        "name": "Sand-Swept Thorn",
+        "bait": "",
+        "location": "Desolate Desert (X: 773, Y: 552)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01097.png",
+        "notes": "https://www.aurakingdom-db.com/item/19153-good-luck-goldie"
+      },
+      {
+        "time": "16:00",
+        "name": "Deep Waterfall Ghost",
+        "bait": "",
+        "location": "Oblitus Wood (X: 129, Y: 651)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00758.png",
+        "notes": "https://www.aurakingdom-db.com/item/13085-waterfall-catfish"
+      },
+      {
+        "time": "16:00",
+        "name": "Eternal Glacier",
+        "bait": "",
+        "location": "Silent Ice Field (X: 328, Y: 560)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01097.png",
+        "notes": "https://www.aurakingdom-db.com/item/14474-ice-field-continent-turtle"
+      },
+      {
+        "time": "16:00",
+        "name": "Silent Torture Dance",
+        "bait": "",
+        "location": "Hidden Valley (X: 729, Y: 764)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01094.png",
+        "notes": "https://www.aurakingdom-db.com/item/19332-glorious-sunrise"
+      },
+      {
+        "time": "16:00",
+        "name": "The Explorer of the Secret Realm",
+        "bait": "",
+        "location": "Scorched Abyss (X: 156, Y: 70)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N62703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02882.png",
+        "notes": "https://www.aurakingdom-db.com/item/35097-golden-mahi-mahi"
+      },
+      {
+        "time": "17:00",
+        "name": "Ancient Witness",
+        "bait": "",
+        "location": "Cactakara Forest (X: 152, Y: 705)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49703.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00758.png",
+        "notes": "https://www.aurakingdom-db.com/item/13080-ancient-mandarin-fish"
+      },
+      {
+        "time": "17:00",
+        "name": "Silent Hunter",
+        "bait": "",
+        "location": "Sunhunter's Vale (X: 640, Y: 221)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N47803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01713.png",
+        "notes": "https://www.aurakingdom-db.com/item/17296-flare-tuna"
+      },
+      {
+        "time": "17:00",
+        "name": "Sand-Swept Thorn",
+        "bait": "",
+        "location": "Desolate Desert (X: 773, Y: 552)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N42903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01097.png",
+        "notes": "https://www.aurakingdom-db.com/item/19153-good-luck-goldie"
       }
     ],
     "Saturday": [
       {
-        "time": "12:00",
-        "name": "Sample Fish King",
-        "location": "Sample Location",
-        "eidolonWish": "Sample Eidolon Wish"
+        "time": "00:00",
+        "name": "Quiet Wanderer",
+        "bait": "",
+        "location": "Dazzling Stone Forest (X: 147, Y: 136)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N61603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02808.png",
+        "notes": "https://www.aurakingdom-db.com/item/22852-cruiser-chief-seal-fish"
+      },
+      {
+        "time": "00:00",
+        "name": "Sand-Spitting Hermit",
+        "bait": "",
+        "location": "Star Sand Desert (X: 136, Y: 790)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13086-giant-sand-perch"
+      },
+      {
+        "time": "00:00",
+        "name": "Tempest Desert Titan",
+        "bait": "",
+        "location": "Tempest Desert (X: 541, Y: 790)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N50602.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01906.png",
+        "notes": "https://www.aurakingdom-db.com/item/18265-desert-snakehead"
+      },
+      {
+        "time": "00:00",
+        "name": "Emerald Spring Overlord",
+        "bait": "",
+        "location": "Emerald Spring Peaks (X: 325, Y: 104)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N59903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02508.png",
+        "notes": "https://www.aurakingdom-db.com/item/21109-king-arowana"
+      },
+      {
+        "time": "01:00",
+        "name": "The Abyssal Lord in Slumber",
+        "bait": "",
+        "location": "Deep Hidden Valley (X: 212, Y: 240)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N53803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02715.png",
+        "notes": "https://www.aurakingdom-db.com/item/22521-ancient-deity"
+      },
+      {
+        "time": "01:00",
+        "name": "Anchor of the Hidden Mudstone",
+        "bait": "",
+        "location": "Poisonous Mist Prison Forest (X: 825, Y: 94)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N64103.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02989.png",
+        "notes": "https://www.aurakingdom-db.com/item/34863-ship-anchor-madtom"
+      },
+      {
+        "time": "01:00",
+        "name": "Dark Crystal",
+        "bait": "",
+        "location": "Demarech Mines (X: 740, Y: 595)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00755.png",
+        "notes": "https://www.aurakingdom-db.com/item/13079-mutant-crystal-lobster"
+      },
+      {
+        "time": "01:00",
+        "name": "Crimson Aquadevil",
+        "bait": "",
+        "location": "Viridian Steppe (X: 124, Y: 175)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01414.png",
+        "notes": "https://www.aurakingdom-db.com/item/15508-phantom-devilfish"
+      },
+      {
+        "time": "08:00",
+        "name": "Quiet Wanderer",
+        "bait": "",
+        "location": "Dazzling Stone Forest (X: 147, Y: 136)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N61603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02808.png",
+        "notes": "https://www.aurakingdom-db.com/item/22852-cruiser-chief-seal-fish"
+      },
+      {
+        "time": "08:00",
+        "name": "Sand-Spitting Hermit",
+        "bait": "",
+        "location": "Star Sand Desert (X: 136, Y: 790)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13086-giant-sand-perch"
+      },
+      {
+        "time": "08:00",
+        "name": "Tempest Desert Titan",
+        "bait": "",
+        "location": "Tempest Desert (X: 541, Y: 790)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N50602.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01906.png",
+        "notes": "https://www.aurakingdom-db.com/item/18265-desert-snakehead"
+      },
+      {
+        "time": "08:00",
+        "name": "Emerald Spring Overlord",
+        "bait": "",
+        "location": "Emerald Spring Peaks (X: 325, Y: 104)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N59903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02508.png",
+        "notes": "https://www.aurakingdom-db.com/item/21109-king-arowana"
+      },
+      {
+        "time": "09:00",
+        "name": "The Abyssal Lord in Slumber",
+        "bait": "",
+        "location": "Deep Hidden Valley (X: 212, Y: 240)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N53803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02715.png",
+        "notes": "https://www.aurakingdom-db.com/item/22521-ancient-deity"
+      },
+      {
+        "time": "09:00",
+        "name": "Anchor of the Hidden Mudstone",
+        "bait": "",
+        "location": "Poisonous Mist Prison Forest (X: 825, Y: 94)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N64103.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02989.png",
+        "notes": "https://www.aurakingdom-db.com/item/34863-ship-anchor-madtom"
+      },
+      {
+        "time": "09:00",
+        "name": "Dark Crystal",
+        "bait": "",
+        "location": "Demarech Mines (X: 740, Y: 595)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00755.png",
+        "notes": "https://www.aurakingdom-db.com/item/13079-mutant-crystal-lobster"
+      },
+      {
+        "time": "09:00",
+        "name": "Crimson Aquadevil",
+        "bait": "",
+        "location": "Viridian Steppe (X: 124, Y: 175)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01414.png",
+        "notes": "https://www.aurakingdom-db.com/item/15508-phantom-devilfish"
+      },
+      {
+        "time": "16:00",
+        "name": "Quiet Wanderer",
+        "bait": "",
+        "location": "Dazzling Stone Forest (X: 147, Y: 136)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N61603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02808.png",
+        "notes": "https://www.aurakingdom-db.com/item/22852-cruiser-chief-seal-fish"
+      },
+      {
+        "time": "16:00",
+        "name": "Sand-Spitting Hermit",
+        "bait": "",
+        "location": "Star Sand Desert (X: 136, Y: 790)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00761.png",
+        "notes": "https://www.aurakingdom-db.com/item/13086-giant-sand-perch"
+      },
+      {
+        "time": "16:00",
+        "name": "Tempest Desert Titan",
+        "bait": "",
+        "location": "Tempest Desert (X: 541, Y: 790)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N50602.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01906.png",
+        "notes": "https://www.aurakingdom-db.com/item/18265-desert-snakehead"
+      },
+      {
+        "time": "16:00",
+        "name": "Emerald Spring Overlord",
+        "bait": "",
+        "location": "Emerald Spring Peaks (X: 325, Y: 104)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N59903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02508.png",
+        "notes": "https://www.aurakingdom-db.com/item/21109-king-arowana"
+      },
+      {
+        "time": "17:00",
+        "name": "The Abyssal Lord in Slumber",
+        "bait": "",
+        "location": "Deep Hidden Valley (X: 212, Y: 240)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N53803.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02715.png",
+        "notes": "https://www.aurakingdom-db.com/item/22521-ancient-deity"
+      },
+      {
+        "time": "17:00",
+        "name": "Anchor of the Hidden Mudstone",
+        "bait": "",
+        "location": "Poisonous Mist Prison Forest (X: 825, Y: 94)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N64103.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I02989.png",
+        "notes": "https://www.aurakingdom-db.com/item/34863-ship-anchor-madtom"
+      },
+      {
+        "time": "17:00",
+        "name": "Dark Crystal",
+        "bait": "",
+        "location": "Demarech Mines (X: 740, Y: 595)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/M49603.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I00755.png",
+        "notes": "https://www.aurakingdom-db.com/item/13079-mutant-crystal-lobster"
+      },
+      {
+        "time": "17:00",
+        "name": "Crimson Aquadevil",
+        "bait": "",
+        "location": "Viridian Steppe (X: 124, Y: 175)",
+        "eidolonWish": "",
+        "imageUrl": "https://cdn.aurakingdom-db.com/images/npcs/N45903.jpg",
+        "thumbnailUrl": "https://cdn.aurakingdom-db.com/images/icons/I01414.png",
+        "notes": "https://www.aurakingdom-db.com/item/15508-phantom-devilfish"
       }
     ]
   }

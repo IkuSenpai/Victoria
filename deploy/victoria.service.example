@@ -1,0 +1,16 @@
+﻿[Unit]
+Description=Victoria Discord Bot
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/victoria
+ExecStart=/usr/bin/npm run start
+Restart=always
+RestartSec=10
+Environment=NODE_ENV=production
+User=victoria
+Group=victoria
+
+[Install]
+WantedBy=multi-user.target
